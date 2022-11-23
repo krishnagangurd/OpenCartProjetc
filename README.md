@@ -1,2 +1,2 @@
-# OpenCartProjetc
+# OpenCartProject
 hi am readme file
